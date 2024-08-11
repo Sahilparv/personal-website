@@ -1,0 +1,48 @@
+#font{
+  
+  
+    font-family: "Source Serif 4", serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    
+  
+}
+.intro{
+    background-color: #D8EFD3;
+    
+    font-family: "Bree Serif", serif;
+    font-weight: 400;
+    font-style: normal;
+    
+}
+.skill{
+background-color: #B0EBB4;
+font-family: "Bree Serif", serif;
+      font-weight: 400;
+      font-style: normal;
+
+    
+}
+.show{
+  background-color: #55AD9B;
+  font-family: "Bree Serif", serif;
+      font-weight: 400;
+      font-style: normal;
+    
+    
+}
+
+.contact{
+  font-family: "Bree Serif", serif;
+      font-weight: 400;
+      font-style: normal;
+      
+      
+    
+}
+.footer{
+  background-color: #F1F8E8;
+  
+    
+}
